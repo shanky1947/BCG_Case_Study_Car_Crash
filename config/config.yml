@@ -1,0 +1,9 @@
+data_sources:
+  primary_person: "data/Primary_Person_use.csv"
+  units: "data/Units_use.csv"
+  charges: "data/Charges_use.csv"
+  damages: "data/Damages_use.csv"
+  endorse: "data/Endorse_use.csv"
+  restrict: "data/Restrict_use.csv"
+output:
+  results: "output"
